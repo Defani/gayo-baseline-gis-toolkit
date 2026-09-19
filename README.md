@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="assets/partners_banner.png" alt="TFCA Sumatera, Rumah Indonesia Berkelanjutan, Redelong Institute" width="560">
+  <img src="assets/partners_banner.png" alt="TFCA Sumatera, Rumah Indonesia Berkelanjutan, Redelong Institute" width="260">
 </div>
 
 # Gayo Coffee Baseline GIS Toolkit
