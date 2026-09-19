@@ -1,0 +1,1 @@
+gee_catalog.csv is a trimmed copy of geemap's ee_data_catalog.csv (geemap, MIT License, Copyright Qiusheng Wu), which is derived from the Earth Engine Datasets List by Samapriya Roy. Source: https://github.com/gee-community/geemap

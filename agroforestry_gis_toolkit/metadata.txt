@@ -1,0 +1,23 @@
+[general]
+name=Gayo Coffee Baseline GIS Toolkit
+qgisMinimumVersion=3.16
+description=A QGIS plugin for the Gayo coffee farmer baseline survey (Aceh Tengah and Bener Meriah): pull KoboToolbox data, show survey photos at their points on the map, run quick QC queries, measure distance to forest areas, and export to Excel/GeoJSON/CSV/PostGIS.
+version=0.11
+author=Defani Arman (GIS Consultant, TFCA Sumatera Program - Rumah Indonesia Berkelanjutan and Redelong Institute)
+email=defaniarman@gmail.com
+
+about=A QGIS plugin built for the Gayo coffee farmer baseline assessment (Konsorsium Konservasi Kopi Gayo) in Aceh Tengah and Bener Meriah, Aceh. Author: Defani Arman, GIS Consultant, TFCA Sumatera Program, Rumah Indonesia Berkelanjutan and Redelong Institute. Tools, all opened from one sidebar panel: (1) KoboToolbox connection to pull survey submissions as a QGIS layer; (2) Foto di Layer - download survey photos and show them at their coordinates (map tip and attribute-form preview); (3) Foto Explorer for photos in Kobo repeat groups; (4) Quick Query for search, filter and QC presets; (5) Distance Analysis from survey points to the nearest forest area with its status; (6) export to Excel, GeoJSON, CSV or PostGIS/Supabase; (7) add web tiles (XYZ/WMTS/WMS/WFS), files of any format, or Google Earth Engine layers; (8) GPX export for Garmin; (9) Grid Index for map series and atlases. Third-party components: Grid Index adapted from the plugin by Kapildev Adhikari (GPLv3); GEE catalog trimmed from geemap by Qiusheng Wu (MIT).
+
+changelog=
+    0.11 Rebranded for the Gayo coffee baseline survey: new name, author and affiliation, updated description.
+    0.10 Added Foto di Layer (Kobo): background photo download with resize and EXIF rotation, virtual path fields, map tip and attribute-form photo preview.
+
+tracker=
+repository=
+category=Plugins
+tags=gayo,coffee,kopi,baseline,survey,farmer,agroforestry,aceh tengah,bener meriah,tfca,kobo,kobotoolbox,photos,qc,distance,forest,export,postgis,gee,earth engine,wmts,xyz,gpx,garmin,grid index,atlas
+experimental=True
+deprecated=False
+icon=icon.png
+hasProcessingProvider=yes
+server=False
